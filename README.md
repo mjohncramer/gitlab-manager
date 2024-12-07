@@ -1,6 +1,6 @@
 # gitlab-manager
 
-Repository containing GitHub Manager for managing Groups and Projects
+Repository containing GitHub Manager for managing Groups and Projects.
 
 ## Getting started
 
