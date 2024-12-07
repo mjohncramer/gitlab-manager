@@ -1,13 +1,9 @@
 #!/bin/bash
 
 # ================================
-# GitLab Management Script with Colors
-# Enhanced for better readability and professionalism
+# GitLab Management Script
 # ================================
 
-# ================================
-# Color Definitions
-# ================================
 # Reset
 RESET='\033[0m'
 
@@ -490,5 +486,4 @@ main_menu() {
 # Execute Main Menu
 # ================================
 main_menu
-	
 
