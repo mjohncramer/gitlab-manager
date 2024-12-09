@@ -22,7 +22,7 @@ BOLD='\033[1m'
 # GitLab API Configuration
 # ================================
 GITLAB_API_URL="https://gitlab.com/api/v4"
-GITLAB_TOKEN="glpat-YzoxCm86MQp1OjhpZTh4vFV8JOM2-cbrAKl4DFsZyBA.170wdevqx"  # **Security Note**: Avoid hardcoding tokens in scripts. Use environment variables or secure storage.
+GITLAB_TOKEN=""  # **Security Note**: Avoid hardcoding tokens in scripts. Use environment variables or secure storage.
 
 # Debug mode: Set to "enable" to see raw JSON responses and debug logs
 DEBUG="disable"
