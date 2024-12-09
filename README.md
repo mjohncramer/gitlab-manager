@@ -2,7 +2,7 @@
 
 Repository containing GitHub Manager for managing Groups and Projects.
 
-## Getting started
+### Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
 
